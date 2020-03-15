@@ -1,0 +1,13 @@
+D:\1A\QLTV3Layers\QLTV3Layers\bin\Debug\QLTV3Layers.exe.config
+D:\1A\QLTV3Layers\QLTV3Layers\bin\Debug\QLTV3Layers.exe
+D:\1A\QLTV3Layers\QLTV3Layers\bin\Debug\QLTV3Layers.pdb
+D:\1A\QLTV3Layers\QLTV3Layers\obj\Debug\QLTV3Layers.frmMain.resources
+D:\1A\QLTV3Layers\QLTV3Layers\obj\Debug\QLTV3Layers.frmNghe.resources
+D:\1A\QLTV3Layers\QLTV3Layers\obj\Debug\QLTV3Layers.Properties.Resources.resources
+D:\1A\QLTV3Layers\QLTV3Layers\obj\Debug\QLTV3Layers.csproj.GenerateResource.Cache
+D:\1A\QLTV3Layers\QLTV3Layers\obj\Debug\QLTV3Layers.exe
+D:\1A\QLTV3Layers\QLTV3Layers\obj\Debug\QLTV3Layers.pdb
+D:\Download\Compressed\Phanmen\1A\QLTV3Layers\QLTV3Layers\bin\Debug\QLTV3Layers.exe.config
+D:\Download\Compressed\Phanmen\1A\QLTV3Layers\QLTV3Layers\obj\Debug\QLTV3Layers.exe
+D:\Download\Compressed\Phanmen\1A\QLTV3Layers\QLTV3Layers\obj\Debug\QLTV3Layers.pdb
+D:\Download\Compressed\Phanmen\1A\QLTV3Layers\QLTV3Layers\obj\Debug\QLTV3Layers.csprojResolveAssemblyReference.cache
